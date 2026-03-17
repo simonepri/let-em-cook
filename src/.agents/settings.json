@@ -1,0 +1,5 @@
+{
+  "permissions": {
+    "allow": ["Bash(ln -s src/.claude /Users/simonepri/GitHub/simonepri/agentic-kitchen/.claude)"]
+  }
+}
